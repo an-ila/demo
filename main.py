@@ -1,2 +1,1 @@
-print("verified by me!")
-print("Double okk!")
+print("verified by me!!!!!!!!!!!!!!!!!!")
